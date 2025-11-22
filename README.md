@@ -1,0 +1,1 @@
+# Simple-Measurement-Method-for-Resistive-Sensors-Based-on-ADCs-of-Micro-controllers
